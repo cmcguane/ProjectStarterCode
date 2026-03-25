@@ -5,7 +5,7 @@ def read_file(filename):
     return [],[],[],[]
 
 def menu():
-    filename = "college.txt"
+    filename = "gamers.txt"
     ids, gdpr, days, status = read_file(filename)
     choice = ""
     while choice != "8":
