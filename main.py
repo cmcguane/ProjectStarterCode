@@ -1,5 +1,4 @@
-from Naked.templates.manifest_in_file import manifest_file_string
-
+# Your name here...
 
 def read_file(filename):
     # THis should be replaced with proper code
